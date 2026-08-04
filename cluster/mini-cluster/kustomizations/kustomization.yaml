@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
 - nginxhello-kustomization.yaml
 - zot-kustomization.yaml
+- imagerepos-kustomization.yaml
