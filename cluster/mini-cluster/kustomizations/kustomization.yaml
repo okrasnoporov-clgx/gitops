@@ -4,3 +4,4 @@ resources:
 - nginxhello-kustomization.yaml
 - zot-kustomization.yaml
 - imagerepos-kustomization.yaml
+- imagepolicies-kustomization.yaml
