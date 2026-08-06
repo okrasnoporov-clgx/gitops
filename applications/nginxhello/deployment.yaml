@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: nginxhello
-          image: nginx:latest
+          image: nginx:1.0.0 # {"$imagepolicy": "flux-system:nginxhello"}
           ports:
             - containerPort: 80
